@@ -1,15 +1,16 @@
-# Simon Liu ¾÷¾¹¾Ç²ß¤u§@§{
+# Simon Liu æ©Ÿå™¨å­¸ç¿’å·¥ä½œåŠ
 
-## ¦¹¦¸¨Ï¥Î¨ìªº³nÅé¡G
+## æ­¤æ¬¡ä½¿ç”¨åˆ°çš„è»Ÿé«”ï¼š
 ### Anaconda:
 - https://repo.continuum.io/archive/Anaconda3-5.0.1-Windows-x86_64.exe
 
 ### scikit-learn:
 http://scikit-learn.org/stable/
 
-## ¦¹¦¸¥Î¨ìªººtºâªk¡G
+## æ­¤æ¬¡ç”¨åˆ°çš„æ¼”ç®—æ³•ï¼š
 
 ### SVM
 https://zh.wikipedia.org/zh-tw/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA
 
-## ­Ó¤HÀÉ®×¡Gwww.linkedin.com/in/simonliuyuwei
+## å€‹äººæª”æ¡ˆï¼š
+Linkedin: www.linkedin.com/in/simonliuyuwei
